@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_calls"
+        icon="@drawable/ic_menu_share"
+        title="Calls"
+        activeColor="@color/colorAccent"
+        />
+    <tab
+        id="@+id/tab_groups"
+        icon="@drawable/ic_menu_slideshow"
+        title="Groups"
+        activeColor="@color/colorAccent" />
+    <tab
+        id="@+id/tab_chats"
+        icon="@drawable/ic_menu_send"
+        title="Chats"
+        activeColor="@color/colorAccent"/>
+</tabs>
